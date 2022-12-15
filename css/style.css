@@ -1849,3 +1849,7 @@ tbody {
 .footer__social-list .social-list__item:not(:last-child) {
   margin-right: 4px;
 }
+
+.add {
+  padding: 0;
+}
