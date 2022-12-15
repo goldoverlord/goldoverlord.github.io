@@ -15,8 +15,8 @@
 
 @media (min-width: 1200px) {
 	.header--exchange .search,
-  .header--exchange .more-btn {
-  	margin-right: 24px;
+	.header--exchange .more-btn {
+		margin-right: 24px;
   }
 }
 
@@ -60,6 +60,7 @@
 	.social-list__link {
 		width: 26px;
 		height: 26px;
+		padding: 0;
 	}
 	h1 {
 		font-size: 40px;
